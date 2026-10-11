@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SealGen Help</title>
+  <meta name="description" content="How to design a seal in SealGen and export it for 3D printing.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <a class="brand" href="index.html"><span class="mark">印</span>SealGen</a>
+      <nav>
+        <a href="index.html" aria-current="page"><span data-lang="zh">使用说明</span><span data-lang="en">Guide</span></a>
+        <a href="privacy.html"><span data-lang="zh">隐私</span><span data-lang="en">Privacy</span></a>
+        <div class="langs">
+          <button type="button" data-set-lang="zh">中文</button>
+          <button type="button" data-set-lang="en">English</button>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <article data-lang="zh">
+        <h1>使用说明</h1>
+        <p class="lede">SealGen 用来设计一枚可以 3D 打印的印章。印面在立体模型里是左右镜像的，盖出来的字才是正的。</p>
+        <figure>
+          <img src="images/zh-window.png" alt="SealGen 主界面。左侧是印面设置，中间是圆形阳刻福字，右侧是朱砂色立体印章。">
+          <figcaption>打开后的界面。左侧设置印面，中间是盖在纸上的效果，右侧是可以转动的立体印章。</figcaption>
+        </figure>
+
+        <h2>设计印面</h2>
+        <figure>
+          <img src="images/zh-face.png" alt="中间画布上的圆形印章，红边框，中间是楷体福字。顶部可以在印稿和镜像之间切换。">
+          <figcaption>「钤印效果」里的文字是正的。切换到「镜像」后左右会反过来，那是刻在章面上的方向。</figcaption>
+        </figure>
+        <ol>
+          <li>在「印面形状」里选择圆形、方形、椭圆、心形，或用手绘拖出轮廓。方形可以调圆角。手绘时按住拖动，松开后闭合；太短或太小的笔画不会被采用。</li>
+          <li>用「尺寸」设定印面的宽和高，单位是毫米。圆形会保持宽高一致。</li>
+          <li>在「文字与图案」里输入文字并添加，也可以添加图片或纹样（梅花、祥云、太极、芒纹、菱纹、回纹）。</li>
+          <li>选中一项后可以改字体、排版、粗体、字号、字距和旋转。排版包括横排、竖排、田字左起、田字右起、环排和增强排版。增强排版会把文字铺满边框内侧；多字默认从右往左竖排，换行可以自己分行。</li>
+          <li>在画布上拖动文字或图案。方向键微调，Delete 删除。</li>
+        </ol>
+
+        <h2>刻法和边框</h2>
+        <figure>
+          <img src="images/zh-controls.png" alt="左侧设置栏：圆形、40 毫米、阳刻、单线边框，以及文字福。">
+          <figcaption>形状、尺寸、阳刻或阴刻、边框纹饰都在左侧。粗细设为 0 就不要边框。</figcaption>
+        </figure>
+        <p>阳刻笔画凸起，盖出来是红字。阴刻笔画凹陷，盖出来是白字。边框纹饰可选单线、双线、委角、回纹、拐子、花瓣、海水。粗细会同时改变线条和纹样，设为 0 就不要边框。阳刻边框是红线，阴刻边框是白线。</p>
+        <p>「印体」里的厚度是章身高度，凸起是笔画高出印面的距离。需要手柄时打开「加手柄」。精度决定印面网格的细腻程度。</p>
+
+        <h2>预览</h2>
+        <figure>
+          <img src="images/zh-solid.png" alt="朱砂色圆形立体印章，印面的福字左右镜像。下方有斜视、俯视、正面、侧面，以及导出按钮。">
+          <figcaption>拖动旋转，滚轮缩放，右键平移。斜视、俯视、正面、侧面用来摆正视角。朱砂、田黄、青田、黑檀只改变预览颜色。</figcaption>
+        </figure>
+        <p>中间的「钤印效果」是盖在纸上的样子，文字是正的。切换到「镜像」可以看到刻在章面上的方向。正在手绘外形时不能切换镜像。</p>
+        <p>右侧是立体印章。印面上的字是镜像的，盖出来才是正的。</p>
+
+        <h2>导出和打印</h2>
+        <p>导出按钮在立体预览下方。导出 STL、3MF 或 OBJ。文件单位是毫米，印面朝上，可在 Cura、Bambu Studio、PrusaSlicer 中打开。也可以导出印稿 PNG，那一张始终是未镜像的钤印效果。</p>
+        <p>打印时把印面作为朝上的那一面。如果打开了手柄，背面可能需要支撑。</p>
+      </article>
+
+      <article data-lang="en" hidden>
+        <h1>Guide</h1>
+        <p class="lede">SealGen designs a seal you can 3D print. The solid is mirrored left to right, so the stamped impression reads correctly.</p>
+        <figure>
+          <img src="images/en-window.png" alt="The SealGen window. Settings are on the left, a circular relief seal reading 福 is in the center, and a cinnabar solid is on the right.">
+          <figcaption>The window after it opens. Set the face on the left, check the impression in the center, and turn the solid on the right.</figcaption>
+        </figure>
+
+        <h2>Design the face</h2>
+        <figure>
+          <img src="images/en-face.png" alt="The canvas with a circular seal, a red border, and the character 福. Print and Mirror sit at the top.">
+          <figcaption>Impression shows the characters the right way around. Mirror reverses left and right, which is the direction cut into the seal.</figcaption>
+        </figure>
+        <ol>
+          <li>Under Face, choose Circle, Square, Oval, or Heart, or draw an outline. Squares can have rounded corners. For a drawn shape, drag a loop and release to close it. A stroke that is too short or too small is not used.</li>
+          <li>Set the width and height in millimeters. A circle keeps both sides equal.</li>
+          <li>Under Content, type characters and add them. You can also add an image or a motif: Plum, Cloud, Taiji, Rays, Diamond, or Meander.</li>
+          <li>Select an item to change its font, layout, bold setting, size, spacing, and rotation. Layouts are Horizontal, Vertical, Grid left, Grid right, Ring, and Fill face. Fill face enlarges the characters inside the border. Several characters run in columns from right to left unless you insert line breaks.</li>
+          <li>Drag characters or artwork on the canvas. Arrow keys nudge, and Delete removes the selection.</li>
+        </ol>
+
+        <h2>Carving and border</h2>
+        <figure>
+          <img src="images/en-controls.png" alt="The settings column: Circle, 40 mm, Relief, a Line border, and the character 福.">
+          <figcaption>Shape, size, relief or intaglio, and the border are on the left. Set the weight to 0 for no border.</figcaption>
+        </figure>
+        <p>Relief raises the strokes so they print red. Intaglio recesses them so they print white. Borders are Line, Double, Notched, Meander, Fret, Petal, and Waves. Weight changes the lines and the ornament together. Set it to 0 for no border. A relief border prints red, and an intaglio border prints white.</p>
+        <p>Depth is the body thickness. Raise is how far the strokes stand above the field. Turn on Add a handle if you want one. Detail controls how fine the face grid is.</p>
+
+        <h2>Preview</h2>
+        <figure>
+          <img src="images/en-solid.png" alt="A cinnabar circular solid. The character 福 is mirrored on the face. Angle, Top, Front, Side, and the export buttons are below.">
+          <figcaption>Drag to turn, scroll to zoom, and right-drag to pan. Angle, Top, Front, and Side reset the view. Cinnabar, Tianhuang, Qingtian, and Ebony change only the preview color.</figcaption>
+        </figure>
+        <p>Impression, in the center, is how the seal prints on paper. Switch to Mirror to see the direction cut into the seal. The switch is unavailable while you are drawing an outline.</p>
+        <p>The solid seal is on the right. The characters on that face are mirrored, so the stamped impression reads correctly.</p>
+
+        <h2>Export and print</h2>
+        <p>The export buttons sit under the solid preview. Export STL, 3MF, or OBJ. Units are millimeters and the face points up. The files open in Cura, Bambu Studio, and PrusaSlicer. Export PNG saves the impression, which is never mirrored.</p>
+        <p>Print with the face on top. A handle may need supports on the back.</p>
+      </article>
+    </main>
+    <footer>
+      <span data-lang="zh">SealGen · macOS · 开发者 Minghao Wang</span>
+      <span data-lang="en">SealGen · macOS · Minghao Wang</span>
+    </footer>
+  </div>
+  <script src="site.js"></script>
+</body>
+</html>
