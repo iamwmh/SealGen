@@ -1,0 +1,81 @@
+{
+  "" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.dia",
+    "emit-module-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary-emit-module.dia",
+    "pch" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.swiftdeps"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/BorderOrnament.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/BorderOrnament.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/BorderOrnament.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/BorderOrnament.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/ContentView.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/DesignCanvasView.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/DesignCanvasView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/DesignCanvasView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/DesignCanvasView.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/InspectorView.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/InspectorView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/InspectorView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/InspectorView.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/Localization.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/Localization.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/Localization.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/Localization.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/MeshExporter.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/MeshExporter.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/MeshExporter.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/MeshExporter.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/ScenePreviewView.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/ScenePreviewView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/ScenePreviewView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/ScenePreviewView.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/SealGenApp.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGenApp.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGenApp.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGenApp.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampDocument.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampDocument.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampDocument.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampDocument.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampMeshBuilder.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampMeshBuilder.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampMeshBuilder.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampMeshBuilder.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampModel.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampModel.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampModel.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampModel.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampRasterizer.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampRasterizer.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampRasterizer.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/StampRasterizer.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/Theme.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/Theme.o"
+  },
+  "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/SealGen.build/Release/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

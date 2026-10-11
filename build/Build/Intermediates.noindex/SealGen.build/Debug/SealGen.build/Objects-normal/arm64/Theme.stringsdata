@@ -1,0 +1,16 @@
+{
+  "source": "/Users/minghaowang/Desktop/SealGen/SealGen/Theme.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "印",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

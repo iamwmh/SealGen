@@ -1,0 +1,139 @@
+{
+  "" : {
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGen-primary.dia",
+    "emit-module-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGen-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGen-primary-emit-module.dia",
+    "pch" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGen-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGen-primary.swiftdeps"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/BorderOrnament.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/BorderOrnament~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/ContentView.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/DesignCanvasView.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/DesignCanvasView~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/InspectorView.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/InspectorView~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/MeshExporter.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/MeshExporter~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/ScenePreviewView.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/ScenePreviewView~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/SealGenApp.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/SealGenApp~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampDocument.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampDocument~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampMeshBuilder.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampMeshBuilder~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampModel.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampModel~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/StampRasterizer.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/StampRasterizer~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/SealGen/Theme.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Debug/SealGen.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

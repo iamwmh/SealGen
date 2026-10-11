@@ -1,0 +1,12 @@
+{
+  "/Users/minghaowang/Desktop/SealGen/SealGen/BorderOrnament.swift" : {
+    "abi-baseline-json" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen.abi.json",
+    "const-values" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.swiftconstvalues",
+    "dependencies" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.d",
+    "diagnostics" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-primary.dia",
+    "objc-header" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen-Swift.h",
+    "swiftdoc" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen.swiftdoc",
+    "swiftmodule" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen.swiftmodule",
+    "swiftsourceinfo" : "/Users/minghaowang/Desktop/SealGen/build/Build/Intermediates.noindex/SealGen.build/Release/SealGen.build/Objects-normal/arm64/SealGen.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/minghaowang/Desktop/SealGen/SealGen/DesignCanvasView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld × %lld mm",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 94
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/minghaowang/Desktop/SealGen/SealGen/InspectorView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 88
+        }
+      }
+    ]
+  },
+  "version": 1
+}
